@@ -1,0 +1,17 @@
+{
+  "name": "data-structure-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "jest" : {
+     "collectCoverage" : true
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
