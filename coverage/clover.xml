@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1670556520112" clover="3.2.0">
-  <project timestamp="1670556520113" name="All files">
-    <metrics statements="39" coveredstatements="39" conditionals="32" coveredconditionals="32" methods="7" coveredmethods="7" elements="78" coveredelements="78" complexity="0" loc="39" ncloc="39" packages="3" files="6" classes="6"/>
-    <package name="array">
+<coverage generated="1671678692302" clover="3.2.0">
+  <project timestamp="1671678692302" name="All files">
+    <metrics statements="55" coveredstatements="55" conditionals="44" coveredconditionals="44" methods="9" coveredmethods="9" elements="108" coveredelements="108" complexity="0" loc="55" ncloc="55" packages="4" files="7" classes="7"/>
+    <package name="Patterns.frequency-counter.array">
+      <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <file name="problem-solution.js" path="C:\Users\Panja\Documents\Data Strucure & Algorithm\Patterns\frequency-counter\array\problem-solution.js">
+        <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="16" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="37" count="6" type="stmt"/>
+        <line num="38" count="6" type="stmt"/>
+        <line num="39" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="recursion.array">
       <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
       <file name="sumOfArray.js" path="C:\Users\Panja\Documents\Data Strucure & Algorithm\recursion\array\sumOfArray.js">
         <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
@@ -26,31 +48,31 @@
         <line num="19" count="2" type="stmt"/>
       </file>
     </package>
-    <package name="number">
+    <package name="recursion.number">
       <metrics statements="15" coveredstatements="15" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
       <file name="factorial.js" path="C:\Users\Panja\Documents\Data Strucure & Algorithm\recursion\number\factorial.js">
         <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-        <line num="9" count="9677" type="cond" truecount="2" falsecount="0"/>
-        <line num="10" count="9669" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="9647" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="9639" type="cond" truecount="2" falsecount="0"/>
         <line num="11" count="5" type="stmt"/>
-        <line num="15" count="9664" type="stmt"/>
-        <line num="16" count="9664" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="9634" type="stmt"/>
+        <line num="16" count="9634" type="cond" truecount="2" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
-        <line num="19" count="9664" type="stmt"/>
-        <line num="20" count="9664" type="stmt"/>
+        <line num="19" count="9634" type="stmt"/>
+        <line num="20" count="9633" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
       </file>
       <file name="reverse-number.js" path="C:\Users\Panja\Documents\Data Strucure & Algorithm\recursion\number\reverse-number.js">
         <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-        <line num="9" count="8383" type="cond" truecount="2" falsecount="0"/>
-        <line num="11" count="8375" type="cond" truecount="2" falsecount="0"/>
-        <line num="13" count="8375" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="8356" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="8348" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="8348" type="cond" truecount="2" falsecount="0"/>
         <line num="14" count="3" type="stmt"/>
-        <line num="17" count="8372" type="stmt"/>
+        <line num="17" count="8345" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
       </file>
     </package>
-    <package name="string">
+    <package name="recursion.string">
       <metrics statements="9" coveredstatements="9" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
       <file name="palindrome.js" path="C:\Users\Panja\Documents\Data Strucure & Algorithm\recursion\string\palindrome.js">
         <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
